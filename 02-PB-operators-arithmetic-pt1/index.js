@@ -34,9 +34,11 @@ console.log(resultTwo);
 
 //8
 a++;
+console.log(a);
 
 //9
 b--;
+console.log(b);
 
 //10
 let d = b-a;
