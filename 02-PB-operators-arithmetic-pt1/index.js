@@ -33,15 +33,14 @@ let resultTwo = (a+b)*c;
 console.log(resultTwo);
 
 //8
-a = a++;
+a++;
 
 //9
-b = b--;
+b--;
 
 //10
 let d = b-a;
 console.log(d+c);
 
 //11
-
 console.log(resultOne%resultTwo);
